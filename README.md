@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 ![mdbook](https://img.shields.io/badge/-mdbook-05122A?style=flat&logo=mdbook)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-androidstudio-05122A?style=flat&logo=androidstudio)&nbsp;
 ![Arduino](https://img.shields.io/badge/-arduino-05122A?style=flat&logo=arduino)&nbsp;
-![Gitpod](https://img.shields.io/badge/-gitpod-05122A?style=flat&logo=gitpod)&nbsp;
+<!--![Gitpod](https://img.shields.io/badge/-gitpod-05122A?style=flat&logo=gitpod)&nbsp;-->
 ![IntelliJ IDEA](https://img.shields.io/badge/-intellijidea-05122A?style=flat&logo=intellijidea)&nbsp;
 <!--!![Overleaf](https://img.shields.io/badge/-overleaf-05122A?style=flat&logo=overleaf)&nbsp;
 [RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;-->
 ![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5D3FD3)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5D3FD3)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\&nbsp;
 ![Android](https://img.shields.io/badge/-android-05122A?style=flat&logo=android)&nbsp;
 <!--!![Arch Linux](https://img.shields.io/badge/-archlinux-05122A?style=flat&logo=archlinux)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
