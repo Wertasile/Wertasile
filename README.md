@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5D3FD3)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
 ![Android](https://img.shields.io/badge/-android-05122A?style=flat&logo=android)&nbsp;
-![Arch Linux](https://img.shields.io/badge/-archlinux-05122A?style=flat&logo=archlinux)&nbsp;
-<!--!![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
+<!--!![Arch Linux](https://img.shields.io/badge/-archlinux-05122A?style=flat&logo=archlinux)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
 ![NixOS](https://img.shields.io/badge/-nixos-05122A?style=flat&logo=nixos)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;-->
 
