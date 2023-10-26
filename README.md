@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 ![LaTeX](https://img.shields.io/badge/-latex-05122A?style=flat&logo=latex)&nbsp;-->
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![mdbook](https://img.shields.io/badge/-mdbook-05122A?style=flat&logo=mdbook)\
+![mdbook](https://img.shields.io/badge/-mdbook-05122A?style=flat&logo=mdbook)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-androidstudio-05122A?style=flat&logo=androidstudio)&nbsp;
 ![Arduino](https://img.shields.io/badge/-arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![Gitpod](https://img.shields.io/badge/-gitpod-05122A?style=flat&logo=gitpod)&nbsp;
