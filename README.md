@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 [RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;-->
 ![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5D3FD3)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android](https://img.shields.io/badge/-android-05122A?style=flat&logo=android)&nbsp;
 <!--!![Arch Linux](https://img.shields.io/badge/-archlinux-05122A?style=flat&logo=archlinux)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
