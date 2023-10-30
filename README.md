@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/>
+<img src="https://i.gifer.com/1yft.gif"/>
 
 ### 🛠 &nbsp;Tech Stack
 
