@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Night Coding" src="[https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/834cf73d-3eee-46c2-45af-4e1c12681900/w=380](https://i.gifer.com/1yft.gif)" align="right"/>
+<img alt="Night Coding" src="https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/834cf73d-3eee-46c2-45af-4e1c12681900/w=380)" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
