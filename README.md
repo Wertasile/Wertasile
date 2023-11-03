@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5D3FD3)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android](https://img.shields.io/badge/-android-05122A?style=flat&logo=android)&nbsp;
-![Debian]([https://img.shields.io/badge/-android-05122A?style=flat&logo=android](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white))&nbsp;
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 
 <!--https://github.com/simple-icons/simple-icons/blob/develop/slugs.md-->
 <!--
