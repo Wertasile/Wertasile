@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###Contact me on:
+### Contact me on:
 
 <a href = "https://www.linkedin.com/in/ahmed-mohamed-haniffa-arfan-989267202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href = "mailto:arfanahmedpsn@gmail.com"><img src= "https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
