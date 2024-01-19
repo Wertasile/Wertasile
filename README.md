@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+<img src="[https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white](https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png)"/>
 
 
 
