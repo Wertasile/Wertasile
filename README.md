@@ -49,6 +49,20 @@ Here are some ideas to get you started:
 
 <img src="(https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png)"/>
 
+[![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html) 
+
+<p align = "center"
+   
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=html)](https://html.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/Overview.en.html)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/) 
+
+
+<p align = "center"
+   
+[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/ide/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=linux)](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+
+</p>
+<br>
+<br>
 
 </p>
 
