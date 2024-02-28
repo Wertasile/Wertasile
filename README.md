@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **CompEng0001/CompEng0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align = "center"
    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://ninad4290.github.io/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)]
    
 </p>
 
