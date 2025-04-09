@@ -1,6 +1,6 @@
 <p align = "center"
    
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)
+Aspiring Developer with expertise in crafting websites with frameworks such as Next.js, React.js and Blazor. Have built multiple Full Stack solutions primary using AWS services (S3, Cognito, Lambda, API Gateway, DynamoDB).
    
 </p>
 
