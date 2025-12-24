@@ -1,4 +1,4 @@
-<p align = "left" padding="20px">
+<p align = "center" padding="20px">
  Software Developer who lives designing and developing unique Websites and Applications.
    
 </p>
