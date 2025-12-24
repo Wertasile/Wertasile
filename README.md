@@ -1,6 +1,5 @@
 <p align = "left" padding="20px"
-   
-Aspiring Developer with expertise in crafting websites with frameworks such as Next.js, React.js and Blazor. Have built multiple Full Stack solutions primary using AWS services (S3, Cognito, Lambda, API Gateway, DynamoDB).
+ Software Developer who lives designing and developing unique Websites and Applications.
    
 </p>
 
@@ -17,7 +16,7 @@ Aspiring Developer with expertise in crafting websites with frameworks such as N
 
 <p align = "center"
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,expressjs,mongodb,net,nextjs,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,expressjs,mongodb,net,nextjs,aws,figma)](https://skillicons.dev)
 
 </p>
 <br>
