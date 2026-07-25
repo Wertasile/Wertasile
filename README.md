@@ -1,5 +1,5 @@
 <p align = "" padding="20px">
-Software Developer who <b>LIVES</b> designing and developing unique Websites and Applications. I typically build Applications in the .NET Ecosystem and the React Ecosystem. I spend most of my time iterating on design, learning new libraries to translate more unique designs into my development, as well as a more in depth understanding of the frameworks I specialise in. 
+Developer designing and developing unique Websites and Applications. I typically build Applications in the .NET Ecosystem and the React Ecosystem. I spend most of my time iterating on design, learning new libraries to translate more unique designs into my development, as well as a more in depth understanding of the frameworks I specialise in. 
 </p>
 
 <br>
