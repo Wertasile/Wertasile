@@ -1,7 +1,10 @@
 <p align = "" padding="20px">
-Design and Developing applications in the .NET Ecosystem and the React Ecosystem. I spend most of my time iterating on design, learning new libraries to translate more unique designs into my development, as well as a more in depth understanding of the frameworks I specialise in. 
+hey there! I love building applications and websites.
 </p>
 
+<p>
+I primarily use the .NET and React Ecosystem.
+</p>
 <br>
 <p>Currently working on 2 applications : <b>ProdPadre</b> and <b>FireteamStudy</b></p>
 
